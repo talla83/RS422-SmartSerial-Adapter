@@ -3,6 +3,8 @@
 
 Signal Convert = UART to RS422 
 
+https://youtu.be/gWlXjHacopM
+
 Eine kleine Platine mit der man 2 Mesa SmartSerial Kanäle realisieren kann.
 
 Geeignet für alle Mesa FPGA Karten bei denen ein Bitfile mit SmartSerial Känalen erstellt werden kann.
